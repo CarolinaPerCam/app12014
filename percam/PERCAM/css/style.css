@@ -1,0 +1,53 @@
+
+@import url(http://fonts.googleapis.com/css?family=Lato-Light);
+
+.ui-page{
+	color: white;
+	text-shadow:none;
+	font-family: 'Lato-Light';
+}
+
+#fondoaap-home{
+	background-color: #159279;
+	background-size: cover;
+}
+#fondoaap-home .ui-header{
+background-color: transparent;
+border: none;
+}
+#fondoaap-home .ui-header h1{
+	padding-top: 6%;
+	font-size: 25px;
+	margin:0 5px;
+	font-weight: 100;
+	text-shadow:none;
+}
+#fondoaap-home .ui-content{
+ 	padding-top:0px;
+ 	font-size: 25px;
+ 	font-weight: 100;
+ 	text-align: center;
+ }
+#fondoaap-home .ui-footer{
+background-color: transparent;
+border: none;
+}
+#fondoaap-home .ui-footer h4{
+	font-size: 20px;
+	font-weight: 300;
+	margin:0 20%;
+	text-shadow:none;
+
+}
+#fondoaap-home .ui-content button {
+	box-shadow: none;
+ 	border: none;
+ 	text-shadow:none;
+ 	background-color: transparent;
+ 	color: white;
+ 	
+ 	font-size: 25pt;
+}
+#fondoaap-home .ui-content button :hover{
+	color: purple;
+}

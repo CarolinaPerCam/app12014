@@ -1,0 +1,7 @@
+
+
+#pizza-home{
+	background-image: url(.../img/fondoaap.jpeg);
+	background-size:cover;
+
+}
